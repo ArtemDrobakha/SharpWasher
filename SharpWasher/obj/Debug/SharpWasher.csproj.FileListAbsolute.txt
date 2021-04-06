@@ -1,0 +1,7 @@
+C:\Users\228\source\repos\SharpWasher\SharpWasher\bin\Debug\SharpWasher.exe.config
+C:\Users\228\source\repos\SharpWasher\SharpWasher\bin\Debug\SharpWasher.exe
+C:\Users\228\source\repos\SharpWasher\SharpWasher\bin\Debug\SharpWasher.pdb
+C:\Users\228\source\repos\SharpWasher\SharpWasher\obj\Debug\SharpWasher.csproj.CoreCompileInputs.cache
+C:\Users\228\source\repos\SharpWasher\SharpWasher\obj\Debug\SharpWasher.exe
+C:\Users\228\source\repos\SharpWasher\SharpWasher\obj\Debug\SharpWasher.pdb
+C:\Users\228\source\repos\SharpWasher\SharpWasher\obj\Debug\SharpWasher.csprojAssemblyReference.cache
